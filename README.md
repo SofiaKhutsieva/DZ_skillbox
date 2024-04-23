@@ -1,5 +1,5 @@
 # HomeWork_ML_NLP_CV_skillbox
-дз по курсу Data Scientist. ML в Skillbox
+*дз по курсу Data Scientist. ML в Skillbox*
 
 
 В рамках заданий в задачи входило:
